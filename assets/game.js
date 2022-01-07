@@ -16,3 +16,4 @@ fight();
 
 console.log(playerName + " attacked" + ". " + enemyName + " now has " + enemyHealth + " health remaining. ")
 
+console.log(enemyName + " attacked " + playerName + ". " + playerName + " now has " + playerHealth + " health remaining.");
